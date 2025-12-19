@@ -13,7 +13,7 @@ Using this project:
 Image files must be in either .tif or .jpg format. 
 All desired model files must be in the correct TrainedModels directory.
 The output is saved in the Output folder.
-
+To note: Interstitial detection for CdTe Samples does not work very well, as a side effect of the preprocessing. A different model has been trained for interstitial classification in this ensamble. 
 
 
 Authors:
